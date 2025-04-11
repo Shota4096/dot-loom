@@ -4,3 +4,4 @@ export function run(): void {
 
 export const VERSION = "0.1.0";
 // drop an unused branch
+// avoid re-reading the config on every call
