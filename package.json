@@ -1,6 +1,6 @@
 {
   "name": "dot-loom",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Provider-pluggable orchestration runtime for multi-model AI inference. ( Sakana Fugu style )",
   "main": "src/index.js",
   "scripts": {
